@@ -26,10 +26,6 @@ after the Adobe EOL announcement (2020) I migrated Mikmak to air standalone desk
 
 - 🔭 looking for interesting opportunities and chalenges..
 
-- `MERN Stack`
-
-:fire: and share what you have learned :tada:
-
 ## 🛠️ Technologies and Tools I use:
 
 <p>
@@ -54,4 +50,5 @@ after the Adobe EOL announcement (2020) I migrated Mikmak to air standalone desk
  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
  <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
+  `MERN Stack`
 </p>
