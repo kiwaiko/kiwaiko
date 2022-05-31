@@ -1,8 +1,5 @@
-<h1 align="center">Hi, I'm Sharon kiwaiko</h1>
-
-<div align="left">
+<h1>Hi, I'm Sharon kiwaiko</h1>
 full-stack developer
-</div>
 
 ## About Myself:
 I’m currently working at **[Mikmak](https://www.mikmak.co.il//)**
