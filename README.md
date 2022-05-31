@@ -1,9 +1,9 @@
-<h1>Hi, I'm Sharon kiwaiko</h1>
+<h1>Sharon kiwaiko</h1>
 full-stack developer
 
-## About Myself:
+## About 
 
-I’m currently working at **[Mikmak](https://www.mikmak.co.il//)**
+currently working at **[Mikmak](https://www.mikmak.co.il//)**
 Mikmak is a virtual world for kids containing many engaging activities and multi-user games.
 I joined as a lead client side developer at 2008 and designed the architecture of this virtual world, all the features and most games there.
 mikmak was developed with flash in actionscript 3
