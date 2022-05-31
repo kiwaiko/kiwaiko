@@ -21,12 +21,7 @@ after the Adobe EOL announcement (2020) I migrated Mikmak to air standalone desk
 - 
 
 ## 🛠️ Technologies and Tools I use:
-`MERN Stack` , `graphQL` `Flux` , `Phaser` , `Kaboom` , `TypeScript, `Actionscript`
-`Node.js`
-Databases: `mongoDB` , `mysql`,`Firebase` , `postgresql`
-version control : `git` , `TortoiseSVN`
-`Object-oriented programming principles` , `Design Patterns` 
-Mongoose, unity,   multiuser and media platforms like  F.M.S. flash media server - client & server side , SmartFoxServer,  Adobe Air  cross-platform runtime system , flash builder / flex IDE , flash develop ,Photoshop
+`MERN Stack` , `graphQL` `Flux` , `Phaser` , `Kaboom` , `TypeScript` , `Actionscript` , `Node.js` , `mongoDB` , `mysql`,`Firebase` , `postgresql` , `git` , `TortoiseSVN` , `Object-oriented programming principles` , `Design Patterns` , `Mongoose` , `unity` , `F.M.S. flash media server` , `SmartFoxServer` ,  `Adobe Air` , `Flex` , `FlashDevelop`
 
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
