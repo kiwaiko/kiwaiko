@@ -18,6 +18,7 @@ after the Adobe EOL announcement (2020) I migrated Mikmak to air standalone desk
 - 👨‍💼 team leader
 
 - 🔭 looking for interesting opportunities and chalenges..
+- `MERN Stack`
 
 ## 🛠️ Technologies and Tools I use:
 
@@ -42,9 +43,7 @@ after the Adobe EOL announcement (2020) I migrated Mikmak to air standalone desk
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
-  `MERN Stack`
- 
-</p>
+  </p>
 
 ## contact me <br/><a href="https://www.linkedin.com/in/kiwaiko/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
 
