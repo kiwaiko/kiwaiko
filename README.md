@@ -7,7 +7,7 @@ currently working at **[Mikmak](https://www.mikmak.co.il//)** a virtual world fo
 I joined as a lead client side developer at 2008 and designed the architecture of this virtual world, all the features and most games there.
 mikmak was developed with flash in actionscript 3.
 after the Adobe EOL announcement (2020) I migrated Mikmak to air standalone desktop application, so it's still active and popular today🙂.
-feel free to contact me <a href="https://www.linkedin.com/in/kiwaiko/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
+
 
 - 🌱 specialize in game development.
 
@@ -43,7 +43,10 @@ feel free to contact me <a href="https://www.linkedin.com/in/kiwaiko/" target="_
  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
   `MERN Stack`
+ 
 </p>
+
+## contact me <a href="https://www.linkedin.com/in/kiwaiko/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
 
 
 
