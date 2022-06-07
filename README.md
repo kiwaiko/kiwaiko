@@ -1,6 +1,6 @@
 <h1>Sharon kiwaiko</h1>
 <h3>full-stack developer</h3>
-<h4>projects currenttly offline since I`m working fulltime at D.I.C Network Technologies, will upload some soon  </h4>
+<h4>PROJECTS ARE CURRENTLY OFFLINE since I`m working fulltime at D.I.C Network Technologies, will upload some soon  </h4>
 
 
 ## About 
