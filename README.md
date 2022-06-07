@@ -1,5 +1,7 @@
 <h1>Sharon kiwaiko</h1>
-full-stack developer
+<h3>full-stack developer</h3>
+<h4>projects currenttly offline since I`m working fulltime at D.I.C Network Technologies, will upload some soon  </h4>
+
 
 ## About 
 
@@ -9,7 +11,7 @@ mikmak was developed with flash in actionscript 3.
 after the Adobe EOL announcement (2020) I migrated Mikmak to air standalone desktop application, so it's still active and popular today🙂.
 
 
-- 🌱 specialize in game development.
+
 
 - 👨‍💻 love learning new technologies.
 
@@ -19,7 +21,8 @@ after the Adobe EOL announcement (2020) I migrated Mikmak to air standalone desk
 
 - 🔭 looking for interesting opportunities and chalenges..
 
-## 🛠️ Technologies and Tools I use:
+
+## 🛠️ Skills:
 `MERN Stack` , `graphQL` `Flux` , `Phaser` , `Kaboom` , `TypeScript` , `Actionscript` , `Node.js` , `mongoDB` , `mysql`,`Firebase` , `postgresql` , `git` , `TortoiseSVN` , `Object-oriented programming principles` , `Design Patterns` , `Mongoose` , `unity` , `F.M.S. flash media server` , `SmartFoxServer` ,  `Adobe Air` , `Flex` , `FlashDevelop`
 
 <p>
