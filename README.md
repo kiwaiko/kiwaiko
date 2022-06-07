@@ -5,7 +5,7 @@ since I`m working fulltime at D.I.C Network Technologies, will upload some soon
 
 ## About 
 
-currently working at **[Mikmak](https://www.mikmak.co.il//)** a virtual world for kids containing many engaging activities and multi-user games.
+currently working at D.I.C Network Technologies, **[Mikmak](https://www.mikmak.co.il//)** a virtual world for kids containing many engaging activities and multi-user games.
 I joined as a lead client side developer at 2008 and designed the architecture of this virtual world, all the features and most games there.
 mikmak was developed with flash in actionscript 3.
 after the Adobe EOL announcement (2020) I migrated Mikmak to air standalone desktop application, so it's still active and popular today🙂.
