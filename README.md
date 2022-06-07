@@ -18,7 +18,6 @@ after the Adobe EOL announcement (2020) I migrated Mikmak to air standalone desk
 - 👨‍💼 team leader
 
 - 🔭 looking for interesting opportunities and chalenges..
-- 
 
 ## 🛠️ Technologies and Tools I use:
 `MERN Stack` , `graphQL` `Flux` , `Phaser` , `Kaboom` , `TypeScript` , `Actionscript` , `Node.js` , `mongoDB` , `mysql`,`Firebase` , `postgresql` , `git` , `TortoiseSVN` , `Object-oriented programming principles` , `Design Patterns` , `Mongoose` , `unity` , `F.M.S. flash media server` , `SmartFoxServer` ,  `Adobe Air` , `Flex` , `FlashDevelop`
