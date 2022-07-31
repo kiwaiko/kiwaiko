@@ -1,7 +1,6 @@
 <h1>Sharon kiwaiko</h1>
 <h3>full-stack developer</h3>
-<h4>PROJECTS CURRENTLY OFFLINE</h4>
-since I`m working fulltime at D.I.C Network Technologies, will upload some soon
+
 
 ## About 
 
@@ -49,6 +48,7 @@ after the Adobe EOL announcement (2020) I migrated Mikmak to air standalone desk
   </p>
 
 ## contact me <br/><a href="https://www.linkedin.com/in/kiwaiko/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
-
+<h4>PROJECTS CURRENTLY OFFLINE</h4>
+since I`m working fulltime at D.I.C Network Technologies, will upload some soon
 
 
