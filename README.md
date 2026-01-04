@@ -1,15 +1,27 @@
 <h1>Sharon kiwaiko</h1>
-<h3>full-stack developer</h3>
+<h3>Full-stack developer building immersive online experiences.</h3>
 
 
 ## About 
 
-currently working at D.I.C Network Technologies, **[Mikmak](https://www.mikmak.co.il//)** a virtual world for kids containing many engaging activities and multi-user games.
-I joined as a lead client side developer at 2008 and designed the architecture of this virtual world, all the features and most games there.
-mikmak was developed with flash in actionscript 3.
-after the Adobe EOL announcement (2020) I migrated Mikmak to air standalone desktop application, so it's still active and popular today🙂.
+Currently freelancing after recently wrapping up work at D.I.C Network Technologies, where I built engaging virtual worlds for kids.
+ **[Mikmak](https://www.mikmak.co.il/)**, a virtual world for kids packed with engaging activities and real-time multiplayer games.[1]
+Joined the team in 2008 as the lead client-side developer, designing the core architecture, major features, and most of the games in the world.[1]
 
+Mikmak was originally built in Flash using ActionScript 3.[1]
+After Adobe’s 2020 EOL announcement, led the migration of Mikmak to an Adobe AIR standalone desktop application, keeping the platform alive, modern, and popular with its community.[1]
 
+- 👨‍💻 **Passionate** about learning and experimenting with new technologies.[1]
+- ⚡ Over the years, have built websites, e-learning products, games, and rich internet applications for a variety of audiences.[1]
+- 👨‍💼 Experienced team lead, mentoring developers and driving projects from idea to production.[1]
+- 🔭 Always looking for challenging opportunities that combine architecture, gameplay, and user experience.[1]
+
+## Skills
+
+Hands-on experience across the **MERN** stack, real-time multiplayer game development, and modern frontend ecosystems.[1]
+Comfortable taking a project from concept and architecture all the way to deployment and live operations.[1]
+
+Key technologies: `MERN Stack`, `GraphQL`, `Flux`, `Phaser`, `Kaboom`, `TypeScript`, `ActionScript`, `Node.js`, `MongoDB`, `MySQL`, `Firebase`, `PostgreSQL`, `Git`, `TortoiseSVN`, `Object-oriented programming principles`, `Design Patterns`, `Mongoose`, `Unity`, `F.M.S. Flash Media Server`, `SmartFoxServer`, `Adobe AIR`, `Flex`, `FlashDevelop`.
 
 
 - 👨‍💻 love learning new technologies.
@@ -48,7 +60,7 @@ after the Adobe EOL announcement (2020) I migrated Mikmak to air standalone desk
   </p>
 
 ## contact me <br/><a href="https://www.linkedin.com/in/kiwaiko/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
-<h4>PROJECTS CURRENTLY OFFLINE</h4>
+<h4>skiwa.net</h4>
 
 
 
