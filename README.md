@@ -5,21 +5,21 @@
 ## About 
 
 Currently freelancing after recently wrapping up work at D.I.C Network Technologies, where I built engaging virtual worlds for kids.
- **[Mikmak](https://www.mikmak.co.il/)**, a virtual world for kids packed with engaging activities and real-time multiplayer games.[1]
-Joined the team in 2008 as the lead client-side developer, designing the core architecture, major features, and most of the games in the world.[1]
+ **[Mikmak](https://www.mikmak.co.il/)**, a virtual world for kids packed with engaging activities and real-time multiplayer games.
+Joined the team in 2008 as the lead client-side developer, designing the core architecture, major features, and most of the games in the world.
 
-Mikmak was originally built in Flash using ActionScript 3.[1]
-After Adobe’s 2020 EOL announcement, led the migration of Mikmak to an Adobe AIR standalone desktop application, keeping the platform alive, modern, and popular with its community.[1]
+Mikmak was originally built in Flash using ActionScript 3.
+After Adobe’s 2020 EOL announcement, led the migration of Mikmak to an Adobe AIR standalone desktop application, keeping the platform alive, modern, and popular with its community.
 
-- 👨‍💻 **Passionate** about learning and experimenting with new technologies.[1]
-- ⚡ Over the years, have built websites, e-learning products, games, and rich internet applications for a variety of audiences.[1]
-- 👨‍💼 Experienced team lead, mentoring developers and driving projects from idea to production.[1]
-- 🔭 Always looking for challenging opportunities that combine architecture, gameplay, and user experience.[1]
+- 👨‍💻 **Passionate** about learning and experimenting with new technologies.
+- ⚡ Over the years, have built websites, e-learning products, games, and rich internet applications for a variety of audiences.
+- 👨‍💼 Experienced team lead, mentoring developers and driving projects from idea to production.
+- 🔭 Always looking for challenging opportunities that combine architecture, gameplay, and user experience.
 
 ## Skills
 
-Hands-on experience across the **MERN** stack, real-time multiplayer game development, and modern frontend ecosystems.[1]
-Comfortable taking a project from concept and architecture all the way to deployment and live operations.[1]
+Hands-on experience across the **MERN** stack, real-time multiplayer game development, and modern frontend ecosystems.
+Comfortable taking a project from concept and architecture all the way to deployment and live operations.
 
 Key technologies: `MERN Stack`, `GraphQL`, `Flux`, `Phaser`, `Kaboom`, `TypeScript`, `ActionScript`, `Node.js`, `MongoDB`, `MySQL`, `Firebase`, `PostgreSQL`, `Git`, `TortoiseSVN`, `Object-oriented programming principles`, `Design Patterns`, `Mongoose`, `Unity`, `F.M.S. Flash Media Server`, `SmartFoxServer`, `Adobe AIR`, `Flex`, `FlashDevelop`.
 
