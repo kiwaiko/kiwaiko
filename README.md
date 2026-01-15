@@ -60,7 +60,7 @@ Key technologies: `MERN Stack`, `GraphQL`, `Flux`, `Phaser`, `Kaboom`, `TypeScri
   </p>
 
 ## contact me <br/><a href="https://www.linkedin.com/in/kiwaiko/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
-<h4>skiwa.net</h4>
+ **[www.skiwa.net - ai automation and much more](https://www.skiwa.net/)**
 
 
 
