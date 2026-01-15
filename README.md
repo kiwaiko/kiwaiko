@@ -1,5 +1,6 @@
-<h1>Sharon kiwaiko <a href="https://skiwa.net>skiwa.net</a></h1>
+<h1>Sharon kiwaiko</h1>
 <h3>Full-stack developer building immersive online experiences.</h3>
+visit <a href="https://skiwa.net>skiwa.net</a>
 
 
 ## About 
