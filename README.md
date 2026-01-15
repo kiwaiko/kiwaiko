@@ -1,10 +1,10 @@
 <h1>Sharon kiwaiko</h1>
 <h3>Full-stack developer building immersive online experiences.</h3>
-visit <a href="https://skiwa.net>skiwa.net</a>
+
 
 
 ## About 
-
+visit me at <a href="https://skiwa.net>skiwa.net</a>
 Currently freelancing after recently wrapping up work at D.I.C Network Technologies, where I built engaging virtual worlds for kids.
  **[Mikmak](https://www.mikmak.co.il/)**, a virtual world for kids packed with engaging activities and real-time multiplayer games.
 Joined the team in 2008 as the lead client-side developer, designing the core architecture, major features, and most of the games in the world.
